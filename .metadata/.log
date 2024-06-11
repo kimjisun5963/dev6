@@ -128,3 +128,12 @@ END
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-06-11 16:43:34.274
 !MESSAGE Started org.springframework.tooling.boot.ls LS process 10784
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 16:44:17.768
+!MESSAGE Classpath changed for project: onepickApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 16:44:18.762
+!MESSAGE Classpath changed for project: onepickApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 16:44:18.763
+!MESSAGE Boot project ADDED: onepickApi
