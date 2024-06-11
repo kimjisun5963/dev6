@@ -282,3 +282,9 @@ Binding(ALT+SHIFT+D R,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 17:02:50.170
 !MESSAGE Boot project ADDED: onepickView
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 17:09:16.896
+!MESSAGE Classpath changed for project: onepickApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-11 17:09:16.896
+!MESSAGE Boot project ADDED: onepickApi
